@@ -1,0 +1,25 @@
+
+h1 {
+    color: yellowgreen;
+    background-color: grey;
+    font-family: cursive;
+    text-align:center;
+    font-size: 24px;
+}p{
+    font-family: Nonsensical, Arial;
+	line-height: 150%;
+    /*font-size: .8em; */
+    color: red;
+}
+
+body {
+    background-color: #dedede;
+}
+nav a{
+    text-align: center;
+    color: #aa1515;
+    background: #dedede;
+    display: inline-block;
+    width: 20%;
+    margin-right: 2%;
+}
